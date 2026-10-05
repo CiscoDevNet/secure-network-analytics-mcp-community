@@ -1,6 +1,6 @@
 # How to Contribute
 
-Thanks for your interest in contributing to Cisco Secure Network Analytics MCP Server! Here are a few general guidelines on contributing and
+Thanks for your interest in contributing to secure-network-analytics-mcp-community MCP Server! Here are a few general guidelines on contributing and
 reporting bugs that we ask you to review. Following these guidelines helps to communicate that you respect the time of
 the contributors managing and developing this open source project. In return, they should reciprocate that respect in
 addressing your issue, assessing changes, and helping you finalize your pull requests. In that spirit of mutual respect,
@@ -32,7 +32,7 @@ reserve breaking changes until the next major version release.
 
 ## Other Ways to Contribute
 
-We welcome anyone that wants to contribute to Cisco Secure Network Analytics MCP Server to triage and reply to open issues to help troubleshoot
+We welcome anyone that wants to contribute to secure-network-analytics-mcp-community MCP Server to triage and reply to open issues to help troubleshoot
 and fix existing bugs. Here is what you can do:
 
 - Help ensure that existing issues follows the recommendations from the _[Reporting Issues](#reporting-issues)_ section,
