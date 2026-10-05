@@ -1,4 +1,4 @@
-# Cisco Secure Network Analytics MCP Server (Community)
+# secure-network-analytics-mcp-community
 
 An [MCP](https://modelcontextprotocol.io) server that lets an AI agent connect to and
 query a **Cisco Secure Network Analytics (SNA)** deployment — formerly Stealthwatch
