@@ -1,7 +1,7 @@
 # Security Policies and Procedures
 
 This document outlines security procedures and general policies for the
-Cisco Secure Network Analytics MCP Server project.
+secure-network-analytics-mcp-community MCP Server project.
 
 - [Reporting a Bug](#reporting-a-bug)
 - [Disclosure Policy](#disclosure-policy)
@@ -9,9 +9,9 @@ Cisco Secure Network Analytics MCP Server project.
 
 ## Reporting a Bug
 
-The Cisco Secure Network Analytics MCP Server team and community take all security bugs in
-Cisco Secure Network Analytics MCP Server seriously. Thank you for improving the security of
-Cisco Secure Network Analytics MCP Server. We appreciate your efforts and responsible disclosure and
+The secure-network-analytics-mcp-community MCP Server team and community take all security bugs in
+secure-network-analytics-mcp-community MCP Server seriously. Thank you for improving the security of
+secure-network-analytics-mcp-community MCP Server. We appreciate your efforts and responsible disclosure and
 will make every effort to acknowledge your contributions.
 
 Report security bugs by emailing `oss-security@cisco.com`.
