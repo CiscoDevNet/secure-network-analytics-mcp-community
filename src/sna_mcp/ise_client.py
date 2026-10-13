@@ -1,3 +1,7 @@
+# Copyright 2026 Cisco Systems, Inc. and its affiliates
+#
+# SPDX-License-Identifier: Apache-2.0
+
 """ISE ERS API client for Adaptive Network Control (ANC) quarantine actions.
 
 The SNA→ISE quarantine seen in the lab runbooks is executed by ISE, not SNA.

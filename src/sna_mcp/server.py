@@ -1,3 +1,7 @@
+# Copyright 2026 Cisco Systems, Inc. and its affiliates
+#
+# SPDX-License-Identifier: Apache-2.0
+
 """FastMCP server exposing read-only Cisco Secure Network Analytics tools.
 
 Scope: read-only (per project decision). Write operations (create/update host
