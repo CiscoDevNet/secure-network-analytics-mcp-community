@@ -1,3 +1,7 @@
+# Copyright 2026 Cisco Systems, Inc. and its affiliates
+#
+# SPDX-License-Identifier: Apache-2.0
+
 """HTTP client for the Cisco Secure Network Analytics (SNA) REST API.
 
 Implements the specifics learned from Cisco's official DevNet documentation and

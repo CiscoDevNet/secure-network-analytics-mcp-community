@@ -1,3 +1,7 @@
+# Copyright 2026 Cisco Systems, Inc. and its affiliates
+#
+# SPDX-License-Identifier: Apache-2.0
+
 """Shared test fixtures.
 
 Every test is hermetic: no ``SNA_*`` / ``ISE_*`` variable from the developer's

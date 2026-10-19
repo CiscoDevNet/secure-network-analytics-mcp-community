@@ -1,3 +1,7 @@
+# Copyright 2026 Cisco Systems, Inc. and its affiliates
+#
+# SPDX-License-Identifier: Apache-2.0
+
 """Response-shaping helpers to keep tool outputs bounded and readable.
 
 Large SNA result sets (flows, top-N reports, host-group traffic) can be huge.
